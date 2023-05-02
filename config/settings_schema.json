@@ -4,8 +4,8 @@
     "theme_name": "Doodles",
     "theme_version": "1.0.0",
     "theme_author": "Shopify",
-    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes",
+    "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
     "name": "t:settings_schema.logo.name",
@@ -69,6 +69,17 @@
         "id": "gradient_accent_2",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_accent_2.label"
+      },
+      {
+        "type": "color",
+        "id": "colors_accent_3",
+        "default": "#c780e8",
+        "label": "t:settings_schema.colors.settings.colors_accent_3.label"
+      },
+      {
+        "id": "gradient_accent_3",
+        "type": "color_background",
+        "label": "t:settings_schema.colors.settings.gradient_accent_3.label"
       },
       {
         "type": "header",

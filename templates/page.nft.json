@@ -1,0 +1,439 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8518a9e6-eaff-4b23-bd22-f4d12ba9e640": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/final.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "315f262c-4acd-4889-9676-1c0ef889f0b4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18834498912568__315f262c-4acd-4889-9676-1c0ef889f0b4-1682226921f36240e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Showcasing a unique art collection.",
+            "heading_size": "h1"
+          }
+        },
+        "template--18834498912568__315f262c-4acd-4889-9676-1c0ef889f0b4-1682226921f36240e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elena loves to draw and paint, and doesn't let her diagnosis stop her from creating beautiful art. She may not have many ways to communicate, but her artwork has become her way of expressing herself to the world and is just as unique as she is.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18834498912568__315f262c-4acd-4889-9676-1c0ef889f0b4-1682226921f36240e8-0",
+        "template--18834498912568__315f262c-4acd-4889-9676-1c0ef889f0b4-1682226921f36240e8-1"
+      ],
+      "custom_css": [
+        "h2,p {font-family: \"Chalkboard SE\", sans-serif;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_9423_8ab4fe54-4ce2-4196-9386-585bfa2ec455.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a9830164-fc69-4493-a239-4630c4ff3142": {
+      "type": "image-with-text",
+      "blocks": {
+        "53af5595-25bb-437c-9e3f-e133142efdac": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make a difference.",
+            "heading_size": "h1"
+          }
+        },
+        "75532066-cc24-4f49-97e4-b6728dae4732": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elena's art has a special place in the hearts of those who know her story. Her love for life is evident in every piece she creates! By acquiring one of her works, you're not only supporting her, but also giving her the opportunity to attend the DeafBlind program at Perkins School for the Blind, where she can learn and grow with peers who understand her unique challenges.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "53af5595-25bb-437c-9e3f-e133142efdac",
+        "75532066-cc24-4f49-97e4-b6728dae4732"
+      ],
+      "custom_css": [
+        "h2,p {font-family: \"Chalkboard SE\", sans-serif;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1452.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "54ea6421-a536-4979-a6de-a0365a9a0c58": {
+      "type": "image-with-text",
+      "blocks": {
+        "b56a5239-60d3-497e-886f-0240176d5753": {
+          "type": "heading",
+          "settings": {
+            "heading": "Something truly special.",
+            "heading_size": "h1"
+          }
+        },
+        "3dae778e-7095-4e81-8f23-dedd63d0af2b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elena Doodles offers a unique opportunity for anyone looking for something out of the ordinary. Each piece is one of a kind and cannot be duplicated. We are proud to offer a selection of her pieces as NFTs, with all proceeds going to support her continued growth and success as an artist. By supporting Elena's doodles, you'll be helping to make a real difference in her life, while also supporting the special needs community.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "b56a5239-60d3-497e-886f-0240176d5753",
+        "3dae778e-7095-4e81-8f23-dedd63d0af2b"
+      ],
+      "custom_css": [
+        "h2,p {font-family: \"Chalkboard SE\", sans-serif;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen-Shot-2023-03-27-at-12.18.51-AM-e1679897565143_de539125-47d7-454a-82a3-e1708d0d8dc6.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4c4e6b82-96f9-47bf-9f5f-e44e0369a062": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18834498912568__4c4e6b82-96f9-47bf-9f5f-e44e0369a062-1682227119cc5cd724-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "817ec79f-1853-4c86-a86e-0a28d3be6f2b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ed3129ee-442c-42d0-9434-fac0446c1439": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "445dbe62-4ac6-4765-9a46-963063037f4f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54ce916e-9744-4580-a126-5c1ec13fae84": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b9f1832e-7af6-45d5-8712-9b0c2916a25e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1f9e716a-f370-48ea-ab0e-183a542aff8a": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ba41d282-ea11-44ee-8eb4-8ea2ac938586": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "974ddcf2-74c2-45e8-9300-4049f9d7266b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7d3f1845-a7fa-45ac-95d7-b0c26e1b4f95": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fd70a42e-50c8-4c8e-a274-3622500e7dca": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "58754c53-bd07-4fb9-8e5b-c616b457d29b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9409_0002_Wave.jpg",
+            "title": "",
+            "text": "<p><strong>Year Five #060<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18834498912568__4c4e6b82-96f9-47bf-9f5f-e44e0369a062-1682227119cc5cd724-0",
+        "817ec79f-1853-4c86-a86e-0a28d3be6f2b",
+        "ed3129ee-442c-42d0-9434-fac0446c1439",
+        "445dbe62-4ac6-4765-9a46-963063037f4f",
+        "54ce916e-9744-4580-a126-5c1ec13fae84",
+        "b9f1832e-7af6-45d5-8712-9b0c2916a25e",
+        "1f9e716a-f370-48ea-ab0e-183a542aff8a",
+        "ba41d282-ea11-44ee-8eb4-8ea2ac938586",
+        "974ddcf2-74c2-45e8-9300-4049f9d7266b",
+        "7d3f1845-a7fa-45ac-95d7-b0c26e1b4f95",
+        "fd70a42e-50c8-4c8e-a274-3622500e7dca",
+        "58754c53-bd07-4fb9-8e5b-c616b457d29b"
+      ],
+      "custom_css": [
+        "h2,p {font-family: \"Chalkboard SE\", sans-serif;}",
+        ".multicolumn {background: transparent;}"
+      ],
+      "settings": {
+        "title": "Year Five Doodles",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "View All",
+        "button_link": "https:\/\/opensea.io\/ElenaDoodles\/created",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3ada31cc-ca8f-436e-bcf7-f9ec692722f3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18834498912568__3ada31cc-ca8f-436e-bcf7-f9ec692722f3-1682227119cc5cd724-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>01<\/h2><h3>Website launch<\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18834498912568__3ada31cc-ca8f-436e-bcf7-f9ec692722f3-1682227119cc5cd724-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>02<\/h2><h3>Marketing  & Collaboration <\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18834498912568__3ada31cc-ca8f-436e-bcf7-f9ec692722f3-1682227119cc5cd724-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>03<\/h2><h3>YEAR FIVE  NFT LAUNCH<\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fe62d631-458f-4b35-a6a9-80b46a88a881": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>04<\/h2><h3>Merch and collectables <\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8fbda5b9-cad1-4622-b808-1632cc8f5116": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>05<\/h2><h3>Merch royalties v1.0<\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "abb86316-d0d3-40f7-afe8-eeac23d96d5a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>06<\/h2><h3>FOOD ART FREE MINT + GAS for holders <\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "09ac345c-eebf-4cd8-a8ab-576084cfc290": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>07<\/h2><h3>Contests, prizes, giveaways<\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "460e0619-a2e3-49cd-b89e-3df6a651a282": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>08<\/h2><h3>Merch royalties v2.0 <\/h3>",
+            "link_label": "",
+            "link": "shopify:\/\/blogs\/journal"
+          }
+        },
+        "52c9e2ea-321b-4022-9b15-e6531427f0db": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>09<\/h2><h3>More Stuff - coming soon!<\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18834498912568__3ada31cc-ca8f-436e-bcf7-f9ec692722f3-1682227119cc5cd724-0",
+        "template--18834498912568__3ada31cc-ca8f-436e-bcf7-f9ec692722f3-1682227119cc5cd724-1",
+        "template--18834498912568__3ada31cc-ca8f-436e-bcf7-f9ec692722f3-1682227119cc5cd724-2",
+        "fe62d631-458f-4b35-a6a9-80b46a88a881",
+        "8fbda5b9-cad1-4622-b808-1632cc8f5116",
+        "abb86316-d0d3-40f7-afe8-eeac23d96d5a",
+        "09ac345c-eebf-4cd8-a8ab-576084cfc290",
+        "460e0619-a2e3-49cd-b89e-3df6a651a282",
+        "52c9e2ea-321b-4022-9b15-e6531427f0db"
+      ],
+      "custom_css": [
+        "h2,h3 {font-family: \"Chalkboard SE\", sans-serif;}",
+        ".multicolumn {background: transparent;}"
+      ],
+      "settings": {
+        "title": "Roadmap",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8518a9e6-eaff-4b23-bd22-f4d12ba9e640",
+    "315f262c-4acd-4889-9676-1c0ef889f0b4",
+    "a9830164-fc69-4493-a239-4630c4ff3142",
+    "54ea6421-a536-4979-a6de-a0365a9a0c58",
+    "4c4e6b82-96f9-47bf-9f5f-e44e0369a062",
+    "3ada31cc-ca8f-436e-bcf7-f9ec692722f3"
+  ]
+}

@@ -1,3 +1,52 @@
+
+.multicolumn-list__item:nth-child(1) .multicolumn-card {
+  background: #ff6961 !important;
+}
+.multicolumn-list__item:nth-child(2) .multicolumn-card {
+  background: #ffb480 !important;
+}
+.multicolumn-list__item:nth-child(3) .multicolumn-card {
+  background: #4dc0b5 !important;
+}
+.multicolumn-list__item:nth-child(4) .multicolumn-card {
+  background: #f6993f !important;
+}
+.multicolumn-list__item:nth-child(5) .multicolumn-card {
+  background: #d3bea7 !important;
+}
+.multicolumn-list__item:nth-child(6) .multicolumn-card {
+  background: #59adf6 !important;
+}
+.multicolumn-list__item:nth-child(7) .multicolumn-card {
+  background: #9d94ff !important;
+}
+.multicolumn-list__item:nth-child(8) .multicolumn-card {
+   background: #c780e8 !important;
+ }
+.multicolumn-list__item:nth-child(9) .multicolumn-card {
+  background: #e3342f !important;
+}
+.multicolumn-list__item:nth-child(10) .multicolumn-card {
+  background: #08cad1 !important;
+}
+.multicolumn-list__item:nth-child(11) .multicolumn-card {
+  background: #f8f38d !important;
+}
+.multicolumn-list__item:nth-child(12) .multicolumn-card {
+  background: #B5FFB7 !important;
+}
+
+.multicolumn-card__info h2 {
+  font-size: 5rem;
+  color: antiquewhite;
+  margin-bottom: 3rem !important;
+}
+
+.multicolumn-card__info h3 {
+  color: aliceblue;
+}
+
+
 .multicolumn .title {
   margin: 0;
 }
