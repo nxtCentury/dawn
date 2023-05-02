@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "42188690-bce1-4848-bae3-1a5e2afbfeda": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is CHARGE syndrome?",
+            "icon": "check_mark",
+            "row_content": "<p>CHARGE syndrome is a rare genetic disease that affects many areas of the body. It causes heart defects, growth deficiency, blindness, and cranial nerve anomalies that lead to deafness and the absence of smell and taste. Due to the range of symptoms for CHARGE, the effects differ from child to child.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does CHARGE stand for anything?",
+            "icon": "check_mark",
+            "row_content": "<p>CHARGE is an abbreviation for several of the features common in the disorder, namely – coloboma, heart defects, atresia choanae (also known as choanal atresia), growth and development restriction, genitourinary and ear abnormalities.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can CHARGE be prevented?",
+            "icon": "check_mark",
+            "row_content": "<p>CHARGE syndrome is not preventable.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does CHARGE syndrome run in the family?",
+            "icon": "check_mark",
+            "row_content": "<p>CHARGE syndrome is a genetic disorder, which is caused by changes in a particular gene (the CHD7 gene). In most cases there’s no family history of the disorder or similar conditions.<\/p>",
+            "page": ""
+          }
+        },
+        "cb6deab8-be34-49de-ba8a-f001270b7382": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is CHARGE syndrome common?",
+            "icon": "check_mark",
+            "row_content": "<p>CHARGE syndrome occurs in approximately 1:10,000-15,000 births worldwide, is extremely complex, has varied medical and physical manifestations and degrees of severity.<\/p>",
+            "page": ""
+          }
+        },
+        "60b30986-be6c-49e5-bf77-c31ea40830d7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does CHARGE syndrome happen?",
+            "icon": "check_mark",
+            "row_content": "<p>Most cases of CHARGE are caused by a mutation, or change, in the gene CHD7. This mutation usually happens for the first time in the person with CHARGE – it is usually not inherited from either parent. Not all people with CHARGE have a change in the CHD7 gene – other genes for CHARGE may be discovered in the future.<\/p>",
+            "page": ""
+          }
+        },
+        "c2a74bd4-8d60-4a71-8d9a-746d688dfeec": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are Elena’s CHARGE syndrome symptoms?",
+            "icon": "check_mark",
+            "row_content": "<p>Elena suffers from the following CHARGE-related health conditions:<\/p><ul><li><strong>Vision.<\/strong> Elena is legally blind, with limited peripheral vision, large blind spots and no central vision, meaning she cannot make eye contact or understand and recognize faces.<\/li><li><strong>Hearing.<\/strong> Elena is profoundly deaf, meaning she can hear nothing at all, and as a result has difficulties balancing and walking independently due to her malformed cochlea and nerve anomalies.<\/li><li><strong>Taste and Smell.<\/strong> Elena cannot taste or smell due to her cranial nerves being malformed.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "b7221492-6eb1-4a0d-9c01-ab1efb4fab13": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How else does CHARGE impact Elena?",
+            "icon": "check_mark",
+            "row_content": "<p>The effects of CHARGE syndrome differ from child to child. In addition to vision, hearing, taste and smell, Elena also has to live with:<\/p><ul><li>Heart defects<\/li><li>Delayed development (hypoplastic pons)<\/li><li>Facial nerve damage (facial palsy)<\/li><li>Breathing difficulties (choanal stenosis)<\/li><li>Limited ability to walk (missing balance nerves)<\/li><li>Episodes of severe vomiting (cyclic vomiting syndrome)<\/li><li>Sleep difficulties<\/li><li>Teeth-grinding (bruxism)<\/li><li>Poor muscle tone (hypotonia)<\/li><li>Intellectual disability<\/li><li>Swallowing difficulties (cranial nerve abnormalities)<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "d6b5a805-45ab-4182-aa45-9b05bdd1b40f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I help?",
+            "icon": "check_mark",
+            "row_content": "<p>Donations can be made through:<\/p><ul><li><a href=\"https:\/\/gofund.me\/f5d6c6fb\">GoFundMe<\/a><\/li><li>Email Transfer (Canada Only): <a href=\"mailto:elenafosterJourney@gmail.com\">elenafosterjourney@gmail.com<\/a><\/li><li>PayPal (International): <a href=\"https:\/\/www.paypal.com\/paypalme\/elenafosterjourney\">paypal.me\/elenafosterjourney<\/a><\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-0",
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-1",
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-2",
+        "template--18819152806200__42188690-bce1-4848-bae3-1a5e2afbfeda-1682227112ffd60452-3",
+        "cb6deab8-be34-49de-ba8a-f001270b7382",
+        "60b30986-be6c-49e5-bf77-c31ea40830d7",
+        "c2a74bd4-8d60-4a71-8d9a-746d688dfeec",
+        "b7221492-6eb1-4a0d-9c01-ab1efb4fab13",
+        "d6b5a805-45ab-4182-aa45-9b05bdd1b40f"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "42188690-bce1-4848-bae3-1a5e2afbfeda",
+    "main"
+  ]
+}
